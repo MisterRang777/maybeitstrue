@@ -54,11 +54,12 @@ people, not manufactured by a queue.
 17. A friend's hand pinches the sleeve
 18. The friend's face. Eyebrows up. He clocks it
 
-**ACT 4 · THE TURN (0:25–0:30)**
-19. White flash → card: WHERE'D YOU GET THAT
-20. Card: MAYBE IT'S TRUE
+**ACT 4 · THE TURN (0:25:22–0:30)**
+19. White flash → card: MAYBE IT'S TRUE (bold white on black, 4s)
 
-The last beat is the artificial demand, and it costs one line of type.
+One card, no explaining line. The "I want that too" beat is carried entirely by
+shots 17 and 18 — the hand on the sleeve and the look — which is why both got
+extra frames. Nike never captions the feeling either.
 
 ## Sound (spec — Higgsfield cannot generate music)
 Act 1 near-silent, room tone and cardboard. A single low sub enters on shot 6.

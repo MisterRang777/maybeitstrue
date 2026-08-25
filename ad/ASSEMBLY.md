@@ -49,3 +49,17 @@ clips      1 1259db2f-5f4f-41d0-acbe-d71b68215697
 
 Asset URLs are Higgsfield CDN links and may expire — pull masters from the
 Higgsfield workspace for the final conform.
+
+---
+
+# v2 — WHERE'D YOU GET THAT (current)
+
+## ▶ CUT MASTER (30s)
+https://d2ol7oe51mr4n9.cloudfront.net/user_38CtzLYwnO86kCtbsf5mwSkZQTU/6078bc8d-b4fc-4755-b6ae-203513b38f55.mp4
+
+1920×1080 · 24fps · 720 frames · exactly 30.000s · h264 crf16 · silent 48kHz
+stereo track · 38.7 MB · faststart.
+
+20 cuts: 18 live shots (0.92s–2.5s each) + a 2-frame white flash + a 4s
+MAYBE IT'S TRUE card, bold white on black. Every clip was generated at 3s and
+trimmed to its leading frames only. Rebuild with `ad/scripts/conform-v2.sh`.

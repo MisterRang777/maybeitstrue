@@ -6,9 +6,9 @@ set -e
 N="scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1,fps=24"
 
 #          shot: 1  2  3  4  5   6  7  8  9 10 11   12 13 14 15 16 17 18
-FRAMES=(    40 32 32 34 40   26 34 24 24 40 32   30 22 32 22 38 36 48 )
-# cards: 2f white flash + 60f "WHERE'D YOU GET THAT" + 72f "MAYBE IT'S TRUE" = 134
-# live 586 + cards 134 = 720
+FRAMES=(    40 32 32 34 40   26 34 24 24 48 32   30 22 32 22 46 44 60 )
+# end: 2f white flash + 96f MAYBE IT'S TRUE card = 98
+# live 622 + 98 = 720
 
 ins=(); filt=""; concat=""
 for i in $(seq 0 17); do
