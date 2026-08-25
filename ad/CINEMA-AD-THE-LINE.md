@@ -43,3 +43,11 @@ Master 16:9, letterbox to Flat.
 ## Production
 Higgsfield: keyframes on `soul_2` (2k, 16:9) → image-to-video on `kling3_0`
 (pro, 5s, sound off — the bed is laid in post). Prompts in `ad/prompts/`.
+
+## Post notes
+- Higgsfield has no standalone music/SFX generation — the bed above is a spec
+  for the sound designer, not a generated asset. Score it in post.
+- Clips render silent (`sound: off`) so the mix is built once across all six
+  shots instead of six mismatched generated tracks.
+- The end card is a still. Do not run it through a motion model — the type
+  distorts. Hold it 5s over the last flash pop.
