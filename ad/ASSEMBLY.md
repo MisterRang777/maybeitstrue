@@ -1,4 +1,19 @@
 # THE LINE — assembly sheet
+
+## ▶ CUT MASTER (30s)
+https://d2ol7oe51mr4n9.cloudfront.net/user_38CtzLYwnO86kCtbsf5mwSkZQTU/a272b028-3d7e-4cd1-84a7-f6614471b120.mp4
+
+1920×1080 · 24fps · 720 frames · exactly 30.000s on the video track · h264 crf16 ·
+silent AAC 48kHz stereo track (30.016s — AAC frame padding, trims at conform) ·
+31.4 MB · faststart.
+
+Built in the Higgsfield sandbox with ffmpeg: all six segments normalised to
+1920×1080/24fps, hard cuts, no transitions. Shot 5 runs 4.917s and a 2-frame
+white flash pop sits on the cut into the end card — the disposable-camera
+signature called for in the brief, and it keeps the total at exactly 720 frames.
+
+To re-render, the same ffmpeg graph is in the commit that added this line.
+
 Generated in Higgsfield · keyframes `soul_2` 2048×1152 · clips `kling3_0` pro
 1920×1080 · 5s · silent. Cut in order, 30s total, hard cuts throughout.
 
