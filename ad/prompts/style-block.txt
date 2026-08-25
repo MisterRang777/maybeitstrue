@@ -1,0 +1,9 @@
+SHARED DISPOSABLE-CAMERA STYLE BLOCK (append to every shot prompt)
+
+Shot on a single-use disposable 35mm film camera with a built-in direct flash.
+Harsh frontal flash with fast falloff, blown-out highlights on the nearest
+subject, background dropping into deep black, heavy visible film grain, slight
+green-cyan color cast, halation bloom around any light source, soft cheap
+plastic-lens corners, natural vignetting, slightly crooked amateur handheld
+framing, tiny orange date stamp in the lower right corner. Looks like a found
+snapshot, not professional photography. No logos, no signage, no readable text.
